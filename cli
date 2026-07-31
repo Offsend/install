@@ -3,7 +3,7 @@
 #
 # Usage:
 #   curl -fsSL https://install.offsend.io/cli | bash
-#   curl -fsSL https://raw.githubusercontent.com/Offsend/Offsend/main/Scripts/install.sh | bash
+#   curl -fsSL https://raw.githubusercontent.com/Offsend/Offsend/main/scripts/cli/install.sh | bash
 #
 # Deploy: serve this file verbatim at https://install.offsend.io/cli
 # (Content-Type: text/plain; charset=utf-8).
